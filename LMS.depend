@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1547017722 source:c:\users\f2017105022\desktop\lms\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<process.h>
+	<stdlib.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+
+1547041584 source:e:\lms finally\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<process.h>
+	<stdlib.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+
